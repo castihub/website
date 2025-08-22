@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2020-NPF-update-light-weight-mirror-development-in-Chile
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: "2020"
+date: 2020-01-01
 venue: 'Advances in Optical and Mechanical Technologies for Telescopes and Instrumentation IV'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
