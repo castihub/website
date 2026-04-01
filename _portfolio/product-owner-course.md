@@ -52,7 +52,7 @@ SENCE (Talento Digital para Chile): Programa intensivo de 140 horas sobre gesti�
 
 ---
 
-### Rediseño flujo de viáticos corporativos[1](files/product-owner/ABP4.pdf)[2](files/product-owner/ABP5.pdf)[3](files/product-owner/ABP6.pdf)
+### Rediseño flujo de viáticos corporativos [1](files/product-owner/ABP4.pdf)  [2](files/product-owner/ABP5.pdf)  [3](files/product-owner/ABP6.pdf)
 
 - **Breve descripción de la actividad o tarea:**
   - Se realizó el rediseño integral del proceso de gestión de viáticos, transformando un sistema manual basado en planillas Excel y correos electrónicos en una plataforma digital automatizada. El proyecto abarcó desde la fase de empatía y definición con Design Thinking hasta la creación de un plan de ejecución bajo metodologías Scrum y Kanban.
