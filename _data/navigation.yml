@@ -18,16 +18,6 @@ main:
     url: /teaching/    
     
   - title: "Portfolio"
-    children:
-      - title: "Portfolio"
-        url: /portfolio/
-      - title: "Product Owner"
-        url: /portfolio/product-owner-course/
-        children:
-          - title: "Textiles Futuro Spa"
-            url: /portfolio/product-owner/abp-textiles-futuro-spa/
-          - title: "SnackXpress"
-            url: /portfolio/product-owner/abp-snackxpress/
     url: /portfolio/
     
   - title: "CV"
