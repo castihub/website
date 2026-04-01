@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<div class="portfolio-pdf">
+  <h1>{{ page.title }}</h1>
+  {% if page.excerpt %}
+    <div class="excerpt">{{ page.excerpt }}</div>
+  {% endif %}
+
+  <style>
+    .portfolio-pdf .pdf-item{margin:2rem 0;border:1px solid #e6e6e6;padding:1rem;border-radius:6px}
+    .portfolio-pdf .pdf-meta{display:flex;justify-content:space-between;align-items:center;margin-bottom:.5rem}
+    .portfolio-pdf object{width:100%;height:600px;border:0}
+    .pdf-download{font-size:.95rem}
+  </style>
+
+  {% if page.pdfs %}
+    {% for file in page.pdfs %}
+      <div class="pdf-item">
+        <div class="pdf-meta">
+          <strong>{{ file.title }}</strong>
+          <span class="pdf-download"><a href="{{ file.path }}">Descargar</a></span>
+        </div>
+        <object data="{{ file.path }}" type="application/pdf">
+          <p>Tu navegador no muestra PDFs embebidos. <a href="{{ file.path }}">Descargar {{ file.title }}</a>.</p>
+        </object>
+      </div>
+    {% endfor %}
+  {% else %}
+    {{ content }}
+  {% endif %}
+
+</div>
