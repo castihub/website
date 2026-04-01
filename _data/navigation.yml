@@ -18,9 +18,6 @@ main:
     url: /teaching/    
     
   - title: "Portfolio"
-    -children:
-      - title: "Product Owner Course"
-        url: /product-owner-course/
     url: /portfolio/
     
   - title: "CV"
