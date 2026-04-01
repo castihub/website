@@ -28,10 +28,10 @@ main:
             url: /portfolio/product-owner/abp-textiles-futuro-spa/
           - title: "SnackXpress"
             url: /portfolio/product-owner/abp-snackxpress/
-    url: /cv/
+    url: /portfolio/
     
-  # - title: "CV"
-  #   url: /cv-json/
+  - title: "CV"
+    url: /cv-json/
     
   - title: "Guide"
     url: /markdown/
