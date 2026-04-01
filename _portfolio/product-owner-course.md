@@ -76,7 +76,7 @@ Usa este bloque por cada ABP que quieras incluir en tu portafolio. Rellena los c
 
 ---
 
-### Rediseño flujo de viáticos corporativos {#redisenio-flujo-viaticos-corporativos}
+### Rediseño flujo de viáticos corporativos {#rediseno-flujo-viaticos-corporativos}
 
 - **Breve descripción de la actividad o tarea:**
   - Resumen de 2-4 líneas sobre qué se hizo.
